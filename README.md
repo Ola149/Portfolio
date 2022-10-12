@@ -10,6 +10,11 @@ My name is Aleksandra Belicka. I'm master in Economics, graduated from Katolicki
 
 
 ## Tech skills
+* Knowledge of software testing tools
+* SQL skills
+* Highly Adaptable 
+
+https://www.knowledgehut.com/blog/software-testing/software-tester-skills
 
 ## Courses
 
@@ -17,6 +22,17 @@ My name is Aleksandra Belicka. I'm master in Economics, graduated from Katolicki
 
 ## Group on Facebook
 
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* ISTQB - egzaminy, pytania, testy
+* Testowanie oprogramowania - Praca, Ogłoszenia
+
 ## Blogs read
+* [testerzy.pl](https://testerzy.pl/)
+* [toniebug.pl](https://www.toniebug.pl/)
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
+* [opensecurity.pl](https://opensecurity.pl/)
+* [niebezpiecznik.pl](https://niebezpiecznik.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
 ## My tests examples 
