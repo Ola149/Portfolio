@@ -13,8 +13,11 @@ My name is Aleksandra Belicka. I'm master in Economics, graduated from Katolicki
 * Knowledge of software testing tools
 * SQL skills
 * Highly Adaptable 
+* Critical Thinking
 
 https://www.knowledgehut.com/blog/software-testing/software-tester-skills
+
+https://www.testgorilla.com/blog/qa-engineer-skills/?utm_term=&utm_campaign=Performance_Max_AU_NZ&utm_source=adwords&utm_medium=ppc&hsa_acc=4932434860&hsa_cam=14324002500&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwy5maBhDdARIsAMxrkw0V3mbJeZiE7PB3UH8fr2N4jkYO0J-59JvU9oxd1I37152ymP0KvboaAuXeEALw_wcB
 
 ## Courses
 
